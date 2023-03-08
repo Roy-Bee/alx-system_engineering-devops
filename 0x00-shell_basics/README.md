@@ -17,3 +17,5 @@ Betty file in my first directory
 Delete the file Betty
 
 Delete myfirstdirectory
+
+Change working directory to previous one
