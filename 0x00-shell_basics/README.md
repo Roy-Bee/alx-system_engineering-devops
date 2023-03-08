@@ -31,3 +31,5 @@ Copy all HTML files from current to parent working directory
 Move all files beginning with an uppercase letter
 
 Delete all files in the pwd that end with ~
+
+Create multiple directories in pwd
