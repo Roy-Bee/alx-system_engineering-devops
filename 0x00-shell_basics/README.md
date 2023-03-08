@@ -15,3 +15,5 @@ Creates a directory in the tmp directory called my first directory
 Betty file in my first directory
 
 Delete the file Betty
+
+Delete myfirstdirectory
