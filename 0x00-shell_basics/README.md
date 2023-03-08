@@ -21,3 +21,5 @@ Delete myfirstdirectory
 Change working directory to previous one
 
 List all files in current directory and the parent of the working directory and the boot directory in long format
+
+Print type of the file
