@@ -7,3 +7,5 @@ Change working directory to the user's home directory
 Display current directory contents in a long format
 
 Display current directory contents in a long format including hidden files
+
+Display current directory contents in long format, with user and group IDs displayed numerically and hidden files
