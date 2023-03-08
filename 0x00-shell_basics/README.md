@@ -33,3 +33,5 @@ Move all files beginning with an uppercase letter
 Delete all files in the pwd that end with ~
 
 Create multiple directories in pwd
+
+List all files and directories of pwd separated by commas
