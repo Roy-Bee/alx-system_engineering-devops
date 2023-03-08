@@ -25,3 +25,5 @@ List all files in current directory and the parent of the working directory and 
 Print type of the file
 
 Create symbolic link to a path
+
+Copy all HTML files from current to parent working directory
